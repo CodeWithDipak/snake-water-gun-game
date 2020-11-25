@@ -1,6 +1,6 @@
 # snake-water-gun-game
 ## Module used:
-* random <be />
+* random <br />
 For this game, I simply used random module for one random input and another input is going to choose by user.<br />
 ## How game works:
 If user choosed snake and computer choosed water, then user will get win and one point added for user. 
